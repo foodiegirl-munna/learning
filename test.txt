@@ -1,3 +1,4 @@
 name:munna
 DOB:24/06/1997
 Status : Single
+Fav food : Rice
